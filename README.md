@@ -2,6 +2,8 @@
 
 This project allows you to search for similar images in your dataset or find similar artwork like on the Pinterest website using Dinov2 with Faiss.
 
+![:)](dino_demo.gif)
+
 ## Usage
 
 1. Install the required dependencies:
